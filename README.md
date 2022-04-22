@@ -1,6 +1,6 @@
 # Predicting the Football Market 
 
-# About
+## About
 
 This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses on football players' statistics scraped from [Fotmob](https://www.fotmob.com/). It contains the following files:
 
@@ -9,16 +9,16 @@ This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses 
 - [Analysis](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_analysis.ipynb)
 - [Presentation Slides](https://github.com/nchin212/fotmob_analysis/blob/main/presentation_slides.pdf)
 
-# Problem Definition
+## Problem Definition
 
 - Use regression models to predict a football player's market value based on their season statistics
 - Determine the best model in predicting market value
 
-# Data Collection
+## Data Collection
 
 Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected using our self-designed web scraper. The details of the scraper can be found [here](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_scraper.ipynb) and the collected data can be found [here](https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx).
 
-# Models Used
+## Models Used
 
 - Linear Regression
 - Linear Regression (with higher order terms)
@@ -26,7 +26,7 @@ Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected usi
 - Lasso Regression
 - Random Forest Regression
 
-# Results
+## Results
 
 | Model 					                         |     R2 Score 		       |  MSE                 |
 |-----------------------------------------:|------------------------:|---------------------:|
@@ -37,14 +37,14 @@ Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected usi
 | Random Forest Regression 		             |     0.6063040966499413  | 147.7985546636136    |
 
 
-# Takeaways
+## Takeaways
 
 - Web scraping
 - Ridge and Lasso Regression
 - Hyperparameter Tuning (value of alpha)
 - Cross Validation
 
-# References
+## References
 
 - https://www.fotmob.com/
 - https://realpython.com/beautiful-soup-web-scraper-python/
