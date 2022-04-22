@@ -5,8 +5,9 @@
 This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses on football players' statistics scraped from [Fotmob](https://www.fotmob.com/). It contains the following files:
 
 - [Web Scraper](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_scraper.ipynb)
-- [Data] (https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx)
-- [Analysis] (https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_analysis.ipynb)
+- [Data](https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx)
+- [Analysis](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_analysis.ipynb)
+- [Slides](https://github.com/nchin212/fotmob_analysis/blob/main/presentation_slides.ipynb)
 
 # Problem Definition
 
