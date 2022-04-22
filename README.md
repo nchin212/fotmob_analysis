@@ -7,7 +7,7 @@ This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses 
 - [Web Scraper](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_scraper.ipynb)
 - [Data](https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx)
 - [Analysis](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_analysis.ipynb)
-- [Presentation Slides](https://github.com/nchin212/fotmob_analysis/blob/main/presentation_slides.ipynb)
+- [Presentation Slides](https://github.com/nchin212/fotmob_analysis/blob/main/presentation_slides.pdf)
 
 # Problem Definition
 
