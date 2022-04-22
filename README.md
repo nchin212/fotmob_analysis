@@ -2,7 +2,11 @@
 
 # About
 
-This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses on football players' statistics scraped from [Fotmob](https://www.fotmob.com/).
+This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses on football players' statistics scraped from [Fotmob](https://www.fotmob.com/). It contains the following files:
+
+- [Web Scraper](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_scraper.ipynb)
+- [Data] (https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx)
+- [Analysis] (https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_analysis.ipynb)
 
 # Problem Definition
 
@@ -11,7 +15,7 @@ This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses 
 
 # Data Collection
 
-Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected using our self-designed web scraper. The details can be found in [here]().
+Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected using our self-designed web scraper. The details of the scraper can be found [here](https://github.com/nchin212/fotmob_analysis/blob/main/fotmob_scraper.ipynb) and the collected data can be found [here](https://github.com/nchin212/fotmob_analysis/blob/main/playerdata.xlsx).
 
 # Models Used
 
