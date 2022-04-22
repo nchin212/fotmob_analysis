@@ -12,7 +12,7 @@ This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses 
 # Problem Definition
 
 - Use regression models to predict a football player's market value based on their season statistics
-- Determine which is the best model in predicting market value
+- Determine the best model in predicting market value
 
 # Data Collection
 
@@ -30,11 +30,11 @@ Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected usi
 
 | Model 					                         |     R2 Score 		       |  MSE                 |
 |-----------------------------------------:|------------------------:|---------------------:|
-| Linear Regression 			                 |     0.6124299824151251  | 146.45024016416988.  |
-| Linear Regression (higher order terms) 	 |     0.6431267219862531  | 144.95331830442498.  |
-| Ridge Regression 			                   |     0.6448971342819805  | 134.5894783980847.   |
-| Lasso Regression 			                   |     0.640337661964369 	 | 123.10347326169641.  |
-| Random Forest Regression 		             |     0.6063040966499413  | 147.7985546636136.   |
+| Linear Regression 			                 |     0.6124299824151251  | 146.45024016416988   |
+| Linear Regression (higher order terms) 	 |     0.6431267219862531  | 144.95331830442498   |
+| Ridge Regression 			                   |     0.6448971342819805  | 134.5894783980847    |
+| Lasso Regression 			                   |     0.640337661964369 	 | 123.10347326169641   |
+| Random Forest Regression 		             |     0.6063040966499413  | 147.7985546636136    |
 
 
 # Takeaways
