@@ -11,7 +11,7 @@ This is a Mini-Project for SC5010 (Introduction to Data Analysis) which focuses 
 
 ## Problem Definition
 
-- Use regression models to predict a football player's market value based on their season statistics
+- Use regression models to predict a football player's market value based on their past 2 season statistics
 - Determine the best model in predicting market value
 
 ## Data Collection
@@ -39,7 +39,7 @@ Player data from the past 2 seasons (2020-2021 and 2021-2022) were collected usi
 
 ## Takeaways
 
-- Web scraping
+- Web Scraping
 - Ridge and Lasso Regression
 - Hyperparameter Tuning (value of alpha)
 - Cross Validation
